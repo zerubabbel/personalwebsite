@@ -27,3 +27,12 @@
 	top: 20px;
 }
 
+
+.container-if-fixed-header
+ {
+    margin-top:50px;
+}
+.container-if-fixed-footer
+{
+    margin-bottom:55px;
+}
