@@ -39,4 +39,35 @@
 
 body {
     padding-bottom: 120px;
+
 }
+
+.contacter ul {
+	list-style: none;
+	font-size: 20px;
+	padding-left:0;
+}
+
+
+.alternate {
+	background-color: #A8D5E8;
+}
+
+.contacter{
+	margin-bottom: 75px;
+}
+
+/*.thumbnailer{        
+    width: 300px; 
+    // or you couåld use percentage values for responsive layout
+    // width : 100%;
+    height: 500px;
+    overflow: auto;
+}
+
+.thumbnail img{
+    // your styles for the image
+    width: 100%;
+    height: auto;
+    display: block;
+}*/
